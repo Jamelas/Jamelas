@@ -2,9 +2,19 @@
 <h3 align="center">Computer Science/Informations Technologies student @ Massey</h3>
 
 <br/>
+
+<div align="center"><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamelas&layout=compact&theme=dracula"></div>
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamelas&theme=dracula">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamelas&hide_progress=true">
+<br/>
+
+## ⚡ About
+- Study --> Computer Science and Information Sciences (graduating this year!) 💻 
+- Location --> Osaka, Japan 🇯🇵
+- Hobbies --> Watching sports 🏉 
+- Coffee? --> Yes, please ☕ 
+
+<br/>
 
 ## 📚 Tech Stack 
 <a href="https://github.com/Jamelas?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
