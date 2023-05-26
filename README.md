@@ -9,7 +9,7 @@
 <br/>
 
 ## ⚡ About
-- Study --> Computer Science and Information Sciences (graduating this year!) 💻 
+- Study --> Computer Science and Information Technologies (graduating this year!) 💻 
 - Location --> Osaka, Japan 🇯🇵
 - Hobbies --> Watching sports 🏉 
 - Coffee? --> Yes, please ☕ 
