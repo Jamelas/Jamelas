@@ -1,5 +1,5 @@
 <h1> 👋 Hi, I'm Jamie 👋</h1>
-<h3>Computer Science/Informations Technologies student @ Massey</h3>
+<h3>Computer Science/Information Technologies student @ Massey</h3>
 
 <br/>
 
