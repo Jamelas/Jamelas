@@ -32,7 +32,7 @@
 
 <br/>
 
-## 🌱 Currently Learning/Revising
+## 🌱 Developer Roadmaps
 <!-- 
 <a href="" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 <a href="" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
