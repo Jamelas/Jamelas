@@ -31,20 +31,6 @@
 ---
 <br/>
 
-<!-- 
-## 🌱 Developer Roadmaps
-
-<a href="" target="_blank"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-<a href="" target="_blank"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-<a href="" target="_blank"><img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-<a href="" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a> 
-
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/649842c0d99c9d673194a7f7?variant=dark" alt="roadmap.sh"/></a>
- 
----
-<br/>
--->
-
 ## 🌱 To-Learn List
 <a href="" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a> 
 <a href="" target="_blank"><img alt="Android Development" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
@@ -55,6 +41,7 @@
 
 ## 📫 Find me on...
 <a href="https://www.linkedin.com/in/jamie-eion-douglas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.jamelas.com/" target="_blank"><img alt="Jamelas.com" src="https://img.shields.io/badge/Jamelas.com-32004b?style=for-the-badge&labelColor=FFFFFF"></a>
 
 ---
 <br/>
