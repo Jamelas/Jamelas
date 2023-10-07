@@ -41,7 +41,7 @@
 
 ## 📫 Find me on...
 <a href="https://www.linkedin.com/in/jamie-eion-douglas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.jamelas.com/" target="_blank"><img alt="Jamelas.com" src="https://img.shields.io/badge/Jamelas.com-32004b?style=for-the-badge&labelColor=FFFFFF"></a>
+<a href="www.jamelas.com/" target="_blank"><img alt="Jamelas.com" src="https://img.shields.io/badge/Jamelas.com-32004b?style=for-the-badge&labelColor=FFFFFF"></a>
 
 ---
 <br/>
