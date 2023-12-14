@@ -10,7 +10,7 @@
 
 ## ⚡ About
 - Study --> Computer Science and Information Technologies (graduating this year!) 💻 
-- Location --> Osaka, Japan 🇯🇵
+- Location --> Christchurch, New Zealand 🇳🇿
 - Hobbies --> Watching sports 🏉 
 - Coffee? --> Yes, please ☕
 
